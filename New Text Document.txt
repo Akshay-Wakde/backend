@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=7fjOw8ApZ1I&list=WL&index=28
+
+npm init
+
+npm run start : to run dev app
+
+git ssh setup windows
+
+git init
+gitignore
+git add . // for all files
